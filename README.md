@@ -75,15 +75,6 @@ Customer churn prediction can help businesses:
 - Reduce customer loss
 - Improve business decision-making
 
-## 📂 Project Structure
-Customer-Churn-ANN/
-│
-├── customer_churn_ann_dataset.csv
-├── customer_churn_ann.ipynb
-├── README.md
-├── requirements.txt
-└── images/
-
 ## 🚀 How to Run
 1. Clone the repository
 
